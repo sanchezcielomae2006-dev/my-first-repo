@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sanchez, Cielo Mae - My First GitHub Project</title>
+    <title>sanchez,cielomae2006 - My First GitHub Project</title>
 </head>
 <body>
     <h1>Hello, GitHub!</h1>
